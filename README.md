@@ -4,3 +4,4 @@ Basics of machine learning using an approachable, and well-known, programming la
 ## 1. Regression
 - **Simple Linear Regression**:  Used 'ENGINESIZE' to predict Co2 Emission
 - **Multiple Linear Regression**:  Used 'ENGINESIZE', 'CYLINDERS', 'FUELCONSUMPTION_HWY' & 'FUELCONSUMPTION_CITY' to predict Co2 Emission
+- **Non-Linear Regression**:  
