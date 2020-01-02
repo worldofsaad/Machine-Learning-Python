@@ -19,3 +19,4 @@ Basics of machine learning using an approachable, and well-known, programming la
 
 
 ## 3. Clustering
+- **K-Means**: 
