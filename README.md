@@ -27,4 +27,4 @@ Basics of machine learning using an approachable, and well-known, programming la
 
 
 ## 4. Recommender System
-
+- **Content-Based Filtering**: Recommendation systems are a collection of algorithms used to recommend items to users based on information taken from the user. These systems have become ubiquitous, and can be commonly seen in online stores, movies databases and job finders. I have explored Content-based recommendation systems and implemented a simple version of one using Python and the Pandas library.
