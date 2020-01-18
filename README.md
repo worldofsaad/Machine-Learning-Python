@@ -25,3 +25,8 @@ Basics of machine learning using an approachable, and well-known, programming la
 
 - **Density-Based Clustering**: DBSCAN is specially very good for tasks like class identification on a spatial context. The wonderful attribute of DBSCAN algorithm is that it can find out any arbitrary shape cluster without getting affected by noise. For example, this following example cluster the location of weather stations in Canada. DBSCAN can be used here, for instance, to find the group of stations which show the same weather condition. As you can see, it not only finds different arbitrary shaped clusters, can find the denser part of data-centered samples by ignoring less-dense areas or noises. More Information on data: https://ibb.co/YNKVsqd
 
+
+## 4. Recommender System
+- **Content-Based Filtering**: Recommendation systems are a collection of algorithms used to recommend items to users based on information taken from the user. These systems have become ubiquitous, and can be commonly seen in online stores, movies databases and job finders. I have explored Content-based recommendation systems and implemented a simple version of one using Python and the Pandas library.
+
+- **Collabrative Filtering**: This technique uses other users to recommend items to the input user. It attempts to find users that have similar preferences and opinions as the input and then recommends items that they have liked to the input. There are several methods of finding similar users (Even some making use of Machine Learning), and the one we will be using here is going to be based on the Pearson Correlation Function.
